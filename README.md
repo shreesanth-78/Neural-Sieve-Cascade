@@ -10,7 +10,7 @@ The **Neural Sieve Cascade (NSC)** is a three-stage malicious URL detection fram
 | **Sieve-3** | TinyBERT | Resolves the hardest adversarial/phishing cases | 11% |
 
 <p align="center">
-  <img src="images/nsc_workflow.png" width="700" alt="NSC workflow">
+  <img src="Images/nsc_workflow.png" width="700" alt="NSC workflow">
 </p>
 
 ---
