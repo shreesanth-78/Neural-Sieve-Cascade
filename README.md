@@ -52,7 +52,7 @@ Original source: Kaggle – *malicious-urls-dataset*.
 ## 📊 Results
 
 <p align="center">
-  <img src="images/accuracy_comparison.png" width="650" alt="Accuracy comparison">
+  <img src="Images/accuracy_comparison.png" width="650" alt="Accuracy comparison">
 </p>
 
 | Model | Accuracy (%) |
@@ -67,7 +67,7 @@ Original source: Kaggle – *malicious-urls-dataset*.
 **Final Confusion Matrix**
 
 <p align="center">
-  <img src="images/confusion_matrix.png" width="650" alt="Confusion matrix">
+  <img src="Images/confusion_matrix.png" width="650" alt="Confusion matrix">
 </p>
 
 **Per-class Metrics**
@@ -81,9 +81,9 @@ Original source: Kaggle – *malicious-urls-dataset*.
 
 Additional plots:  
 <p align="center">
-  <img src="images/precision.png" width="300" alt="Precision">  
-  <img src="images/recall.png" width="300" alt="Recall">  
-  <img src="images/F1-score.png" width="300" alt="F1-score">
+  <img src="Images/precision.png" width="300" alt="Precision">  
+  <img src="Images/recall.png" width="300" alt="Recall">  
+  <img src="Images/F1-score.png" width="300" alt="F1-score">
 </p>
 
 ---
